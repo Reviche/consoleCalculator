@@ -1,0 +1,15 @@
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.csproj.AssemblyReference.cache
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.AssemblyInfoInputs.cache
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.AssemblyInfo.cs
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.csproj.CoreCompileInputs.cache
+/Users/kevinramirez/Documents/consoleCalculator/bin/Debug/net6.0/consoleCalculator
+/Users/kevinramirez/Documents/consoleCalculator/bin/Debug/net6.0/consoleCalculator.deps.json
+/Users/kevinramirez/Documents/consoleCalculator/bin/Debug/net6.0/consoleCalculator.runtimeconfig.json
+/Users/kevinramirez/Documents/consoleCalculator/bin/Debug/net6.0/consoleCalculator.dll
+/Users/kevinramirez/Documents/consoleCalculator/bin/Debug/net6.0/consoleCalculator.pdb
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.dll
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/refint/consoleCalculator.dll
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.pdb
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/consoleCalculator.genruntimeconfig.cache
+/Users/kevinramirez/Documents/consoleCalculator/obj/Debug/net6.0/ref/consoleCalculator.dll
